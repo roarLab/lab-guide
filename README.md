@@ -1,4 +1,3 @@
 # lab-guide
 
-Please visit our wiki here:  
-[wiki](wiki)
+Please visit our wiki [**here**](https://github.com/roarLab/lab-guide/wiki)
